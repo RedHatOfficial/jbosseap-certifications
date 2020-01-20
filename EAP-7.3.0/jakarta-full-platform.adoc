@@ -2,7 +2,7 @@
 :ext-relative: {outfilesuffix}
 :imagesdir: ../images/
 
-image:splash_eaplogo_small.png[Red Hat JBoss Enterprise Application Platform, align="center"]
+image:Logo-Red_Hat-JBoss_Enterprise_Application_Platform-B-Standard-RGB.png[Red Hat JBoss Enterprise Application Platform, align="center"]
 
 [[introduction]]
 == Introduction
