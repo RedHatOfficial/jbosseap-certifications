@@ -11,7 +11,7 @@ As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Tech
 
 === WildFly Web Profile, Certification Summary
 ----
-Date:  2-Jun-2021
+Date:  22-July-2021
 Product Name:  Red Hat JBoss Enterprise Application Platform 7.4
 Product Version: 7.4.0.GA
 URL to product download page: http://www.redhat.com/en/technologies/jboss-middleware/application-platform
@@ -221,7 +221,7 @@ https://download.eclipse.org/jakartaee/dependency-injection/1.0/jakarta.inject-t
 
 TCK result summary:
 ----
-Tests run: 50, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.538 sec
+Tests run: 50, Failures: 0, Errors: 0, Skipped: 0
 ----
 
 Jakarta Contexts and Dependency Injection 2.0 TCK
@@ -231,7 +231,7 @@ https://download.eclipse.org/jakartaee/cdi/2.0/cdi-tck-2.0.6-dist.zip[cdi-tck-2.
 
 TCK result summary:
 ----
-Tests run: 1807, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,235.467 sec
+Tests run: 1807, Failures: 0, Errors: 0, Skipped: 0
 ----
 
 Jakarta Bean Validation 2.0 TCK
@@ -241,5 +241,5 @@ https://download.eclipse.org/jakartaee/bean-validation/2.0/beanvalidation-tck-di
 
 TCK Result Summary:
 ----
-Tests run: 1043, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 549.396 sec
+Tests run: 1043, Failures: 0, Errors: 0, Skipped: 0
 ----
