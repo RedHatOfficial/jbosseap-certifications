@@ -29,7 +29,7 @@ TCK Version, digital SHA-256 fingerprint and download URL:
 https://download.eclipse.org/jakartaee/platform/8/eclipse-jakartaeetck-8.0.2.zip[Jakarta EE Platform TCK 8.0.2, 14a21b617bb646055c2952f1422ec04a71389fb37301e1c2969f6c3700aee965 ]
 
 Public URL of TCK Results Summary: 
-https://github.com/RedHatOfficial/jbosseap-certifications/EAP-7.4.0/jakarta-full-platform.adoc[Red Hat JBoss Enterprise Application Platform 7.4.0.GA TCK results]
+https://github.com/RedHatOfficial/jbosseap-certifications/blob/EE8/EAP-7.4.0/jakarta-full-platform.adoc[Red Hat JBoss Enterprise Application Platform 7.4.0.GA TCK results]
 
 Any Additional Specification Certification Requirements:
 ----
