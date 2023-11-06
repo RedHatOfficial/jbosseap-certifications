@@ -2,7 +2,7 @@
 :ext-relative: {outfilesuffix}
 :imagesdir: ../images/
 
-image:splash_wildflylogo_small.png[WildFly, align="center"]
+image:Logo-Red_Hat-JBoss_Enterprise_Application_Platform-B-Standard-RGB.png[JBoss Enterprise Application Platform, align="center"]
 
 
 === Compatibility Certification Information
