@@ -1,0 +1,58 @@
+= Jakarta Core Profile 10 TCK Java SE 17 Results
+:ext-relative: {outfilesuffix}
+:imagesdir: ../images/
+
+image:Logo-Red_Hat-JBoss_Enterprise_Application_Platform-B-Standard-RGB.png[JBoss Enterprise Application Platform, align="center"]
+
+
+=== Compatibility Certification Information
+----
+Date:  November 6, 2023
+Product Name: JBoss Enterprise Application Platform (JBoss EAP)
+Version: 8.0.0
+URL to product download page: http://www.redhat.com/en/technologies/jboss-middleware/application-platform [JBoss Enterprise Application Platform]
+
+Product Description: An implementation of the Jakarta EE 10 Core Profile Specification
+Java SE provider and Version tested with: OpenJDK 64-Bit Server VM (Red_Hat-17.0.7.0.7-1.el7openjdkportable) (build 17.0.7+7-LTS, mixed mode, sharing)
+OS version: Red Hat Enterprise Linux Server 7.4 (Maipo)
+----
+Specification Name, Version and download URL:
+https://jakarta.ee/specifications/coreprofile/10/[Jakarta EE Core Profile, 10]
+
+TCK Version, digital SHA-256 fingerprint and download URL:
+https://download.eclipse.org/jakartaee/coreprofile/10.0/jakarta-core-profile-tck-10.0.3.zip[10.0.3, a531a6ffc1eedfced6383a519013d176060b8280189141dcd626c26aad8502ac ]
+
+Public URL of TCK Results Summary:
+https://github.com/RedHatOfficial/jbosseap-certifications/blob/EE10/EAP-8.0.0/jakarta-full-platform.adoc#jakarta-core-profile-1000-tck-java-se-17-results[JBoss EAP 8.0.0 TCK results]
+
+Jakarta Core Profile TCK Results:
+---- 
+
+JSON-P Summary:
+
+Tests run: 179, Failures: 0, Errors: 0, Skipped: 0 
+
+JSON-B Summary:
+
+Tests run: 295, Failures: 0, Errors: 0, Skipped: 5
+
+Dependency Injection Summary:
+
+Tests run: 50, Failures: 0, Errors: 0, Skipped: 0
+
+RESTful Web Services Summary:
+
+Tests run: 2654, Failures: 0, Errors: 0, Skipped: 130
+
+CDI Lite TCK Summary:
+
+Tests run: 715, Failures: 0, Errors: 0, Skipped: 0
+
+CDI Lang Model TCK Summary:
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+Core Profile Summary
+
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0
+
