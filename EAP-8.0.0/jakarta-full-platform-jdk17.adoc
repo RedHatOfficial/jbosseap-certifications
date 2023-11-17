@@ -11,7 +11,7 @@ As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Tech
 
 === JBoss Enterprise Application Platform Full Platform, Certification Summary
 ----
-Date:  November 6, 2023
+Date:  November 17, 2023
 Product Name: JBoss Enterprise Application Platform (JBoss EAP)
 Version: 8.0.0
 URL to product download page: http://www.redhat.com/en/technologies/jboss-middleware/application-platform [JBoss Enterprise Application Platform]
@@ -646,7 +646,7 @@ TCK result summary:
 Tests run: 295, Failures: 0, Errors: 0, Skipped: 5
 ----
 
-https://download.eclipse.org/jakartaee/jsonp/2.1/jakarta-jsonp-tck-2.1.0.zip[Jakarta JSON Processing 2.1.0 TCK] 
+https://download.eclipse.org/jakartaee/jsonp/2.1/jakarta-jsonp-tck-2.1.0.zip[Jakarta JSON Processing 2.1.0 TCK]
 
 SHA-256: `6ee953382ff965627fe20dd7e3bfce6c968ed829d611cf4990988ab54bfe8b54`
 
@@ -672,10 +672,10 @@ SHA-256: `8ff1e6ee4165ca5444cb181a4a70fcde94b9b3915cad948c7f1a029290b09773`
 
 TCK result summary:
 ----
-Tests run: 2796, Failures: 0, Errors: 0, Skipped: 128
+Tests run: 2796, Failures: 0, Errors: 0, Skipped: 130
 ----
 
-https://download.eclipse.org/jakartaee/security/3.0/jakarta-security-tck-3.0.0.zip[Jakarta Security 3.0.0 TCK] 
+https://download.eclipse.org/jakartaee/security/3.0/jakarta-security-tck-3.0.0.zip[Jakarta Security 3.0.0 TCK]
 
 SHA-256: `696776046dfeaed74266a5d1c4dac7fea5437b6f51743b7fe10962dde755ff8f`
 
@@ -692,13 +692,13 @@ Number of Tests with Errors = 0
 [javatest.batch] Number of Tests with Errors = 0
 ----
 
-(Two tests were excluded due to the challenge at https://github.com/jakartaee/security/issues/270.)
+(Two tests were excluded due to the challenge at https://github.com/jakartaee/security/issues/270)
 
-https://download.eclipse.org/jakartaee/xml-binding/4.0/jakarta-xml-binding-tck-4.0.0.zip[Jakarta XML Binding 4.0.0 TCK]
+https://download.eclipse.org/jakartaee/xml-binding/4.0/jakarta-xml-binding-tck-4.0.1.zip[Jakarta XML Binding 4.0.1 TCK]
 
-SHA-256: `33fa6a39e6ac6b767316efc2f71fed3577c3d364dd1f532d410915c30a0b5b67`
+SHA-256: `146be8dc429eb6271a940bf7652f4e11421be702357dbca2cbd93c09c53fac2e`
 
 TCK result summary:
 ----
-Pass: 24,626  Fail: 0  Error: 0  Not-Run: 0
+Pass: 24,624  Fail: 0  Error: 0  Not-Run: 0
 ----
