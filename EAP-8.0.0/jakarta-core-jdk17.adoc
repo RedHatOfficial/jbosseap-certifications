@@ -7,7 +7,7 @@ image:Logo-Red_Hat-JBoss_Enterprise_Application_Platform-B-Standard-RGB.png[JBos
 
 === Compatibility Certification Information
 ----
-Date:  November 6, 2023
+Date:  November 17, 2023
 Product Name: JBoss Enterprise Application Platform (JBoss EAP)
 Version: 8.0.0
 URL to product download page: http://www.redhat.com/en/technologies/jboss-middleware/application-platform [JBoss Enterprise Application Platform]
@@ -30,7 +30,8 @@ Jakarta Core Profile TCK Results:
 
 JSON-P Summary:
 
-Tests run: 179, Failures: 0, Errors: 0, Skipped: 0 
+Tests run: 179, Failures: 0, Errors: 0, Skipped: 0
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0
 
 JSON-B Summary:
 
