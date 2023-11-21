@@ -668,7 +668,7 @@ Test:  PASSED........com/sun/tdk/signaturetest/SignatureTest.java
 
 https://download.eclipse.org/jakartaee/restful-ws/3.1/jakarta-restful-ws-tck-3.1.4.zip[Jakarta RESTful Web Services 3.1.4 TCK]
 
-SHA-256: `8ff1e6ee4165ca5444cb181a4a70fcde94b9b3915cad948c7f1a029290b09773`
+SHA-256: `5ec7e36808eca5f3a3b01f5eec018a30183e555071ca19da8055b22809a22c9d`
 
 TCK result summary:
 ----
