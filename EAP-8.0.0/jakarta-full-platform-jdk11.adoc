@@ -646,9 +646,9 @@ TCK result summary:
 Tests run: 295, Failures: 0, Errors: 0, Skipped: 5
 ----
 
-https://download.eclipse.org/jakartaee/jsonp/2.1/jakarta-jsonp-tck-2.1.0.zip[Jakarta JSON Processing 2.1.0 TCK]
+https://download.eclipse.org/jakartaee/jsonp/2.1/jakarta-jsonp-tck-2.1.1.zip[Jakarta JSON Processing 2.1.1 TCK]
 
-SHA-256: `6ee953382ff965627fe20dd7e3bfce6c968ed829d611cf4990988ab54bfe8b54`
+SHA-256: `949f203de84deffa8c7892b555918e42f1dd220ccb7b6800741ea58af62737c1`
 
 TCK result summary:
 ----
