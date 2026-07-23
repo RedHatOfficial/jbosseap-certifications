@@ -14,7 +14,7 @@ As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Tech
 Date:  November 17, 2023
 Product Name: JBoss Enterprise Application Platform (JBoss EAP)
 Version: 8.0.0
-URL to product download page: http://www.redhat.com/en/technologies/jboss-middleware/application-platform [JBoss Enterprise Application Platform]
+URL to product download page: https://www.redhat.com/en/technologies/jboss-middleware/application-platform [JBoss Enterprise Application Platform]
 
 Product Description: An implementation of the Jakarta EE 10 Web Profile Specification
 Java SE provider and Version tested with: OpenJDK 64-Bit Server VM (Red_Hat-17.0.7.0.7-1.el7openjdkportable) (build 17.0.7+7-LTS, mixed mode, sharing)
